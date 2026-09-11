@@ -1,0 +1,6 @@
+metric,value
+accuracy,0.9888888888888889
+weighted_precision,0.9892765918627988
+weighted_recall,0.9888888888888889
+weighted_f1,0.9888718766613505
+weighted_roc_auc,0.9998020442878863

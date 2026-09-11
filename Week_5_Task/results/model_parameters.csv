@@ -1,0 +1,9 @@
+parameter,count
+net.0.weight,8192
+net.0.bias,128
+net.2.weight,128
+net.2.bias,128
+net.4.weight,8192
+net.4.bias,64
+net.7.weight,640
+net.7.bias,10
